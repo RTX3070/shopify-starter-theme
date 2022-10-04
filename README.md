@@ -12,3 +12,5 @@ A backbone theme for Shopify Online Store 2.0 upon which build your next Shopify
 
 3. Run the following command to clone "Shopify Starter Theme" into your local machine:
 `shopify theme init [THEME NAME] --clone-url [GIT REPOSITORY URL]`
+
+*Since GitHub doesn't allow empty folders you need to create "sections" and "snippets" folders by yourself*
